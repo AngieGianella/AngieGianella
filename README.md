@@ -13,6 +13,7 @@
     <li>Lenguajes de programación: HTML, CSS, JavaScript</li>
     <li>Frameworks: React, Angular, Vue.js</li>
     <li>Control de versiones: Git, GitHub</li>
+   </br>
     <p>📫 Cómo contactarme</p>
     <p>Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de:</p>
     <ul>
