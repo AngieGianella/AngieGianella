@@ -1,6 +1,7 @@
 <img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fes_es%2Fportadas-facebook%2Fplantillas%2F&psig=AOvVaw2BvxieVTVo81ZUi2wCAl4I&ust=1686855787760000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJip0YXHw_8CFQAAAAAdAAAAABAE" width="1000" height="400"  img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
+<p>Soy Angie Gianella , una desarrolladora apasionado por Frontend Developer . Me encanta crear soluciones innovadoras y trabajar en proyectos desafiantes. Actualmente, estoy enfocado en aprender mas sobre la tecnologia 🖥️.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiegianella&label=Profile%20views&color=0e75b6&style=flat" alt="angiegianella" /> </p>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="4
