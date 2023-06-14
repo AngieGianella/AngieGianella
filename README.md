@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-01/midjourney_2.jpg" width="1000" height="400"  img>
+<img align="right" alt="Coding" src="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-01/midjourney_2.jpg" width="1000" height="600"  img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 <p>Soy Angie Gianella, una Frontend Developer 👩‍💻 apasionada por crear experiencias de usuario excepcionales a través de la web. Me encanta el desarrollo web y trabajar en proyectos que combinen diseño , funcionalidad y sobre todo soy autodidacta .</p>
