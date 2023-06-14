@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Freutersinstitute.politics.ox.ac.uk%2Fes%2Fperiodismo-medios-y-tecnologia-tendencias-y-predicciones-para-2023&psig=AOvVaw2H3uZRj8kYgnwuulWj3M-k&ust=1686856912628000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjvo57Lw_8CFQAAAAAdAAAAABAQ" width="1000" height="400"  img>
+<img align="right" alt="Coding" src="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-01/midjourney_2.jpg" width="1000" height="400"  img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 <p>Soy Angie Gianella, una Frontend Developer 👩‍💻 apasionada por crear experiencias de usuario excepcionales a través de la web. Me encanta el desarrollo web y trabajar en proyectos que combinen diseño , funcionalidad y sobre todo soy autodidacta .</p>
