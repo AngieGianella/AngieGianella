@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" src="https://i.pinimg.com/564x/71/1e/c7/711ec78cc8841456632f68587d2543cc.jpg" width="1000" height="300"  img>
+<img align="right" alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Fes_es%2Fportadas-facebook%2Fplantillas%2F&psig=AOvVaw2BvxieVTVo81ZUi2wCAl4I&ust=1686855787760000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJip0YXHw_8CFQAAAAAdAAAAABAE" width="1000" height="400"  img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 
