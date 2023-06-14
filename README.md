@@ -2,7 +2,8 @@
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiegianella&label=Profile%20views&color=0e75b6&style=flat" alt="angiegianella" /> </p>
-
+<img align="right" alt="Coding" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA1MzU0ZmNjOWVlZGVmMjcxOGJmMTcyZjBhZjhjNjhlOTU0OTdlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YYW0hHizzIOrlhimPG/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" width="4
+00" frameBorder="0" class="giphy-embed" img>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
