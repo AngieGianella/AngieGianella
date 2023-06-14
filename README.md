@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/fotos-premium/concepto-desarrollador-software-crece-icono-desarrollo-codificacion-lenguaje-fondo-rosa-programacion-e-ingenieria-estilo-dibujos-animados-minimo-3d-render-ilustracion_598821-680.jpg?w=826  )]
+<img height="300" width="1000" src="https://img.freepik.com/fotos-premium/concepto-desarrollador-software-crece-icono-desarrollo-codificacion-lenguaje-fondo-rosa-programacion-e-ingenieria-estilo-dibujos-animados-minimo-3d-render-ilustracion_598821-680.jpg?w=826" img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 
