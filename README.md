@@ -1,4 +1,4 @@
-<img height="300" width="1000" src="https://i.pinimg.com/564x/e9/14/46/e91446bc420d3089463c4095d47ea0ab.jpg" img>
+<img height="300" width="1000" src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" img>
 <h1 align="center">Hi 👋, I'm Angie Gianella Apaza Andia</h1>
 <h3 align="center">Lic. in accounting 👩‍💻/ frontend developer 💻</h3>
 
